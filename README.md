@@ -1,2 +1,2 @@
 # is-elvis
-Checks whether a string has elvis operator
+Checks whether a string has optional chaining ( elvis operator )
